@@ -4,8 +4,8 @@
 Hi, I'm Shankar! I hold a **Master of Social Work** and a **Bachelor of Commerce** degree from Madras University. My academic journey has provided me with a strong foundation in commerce principles, including finance, business law, and economics, while equipping me with essential skills for social work practice.
 
 ## 🎓 Education
-- **Master of Social Work**, Madras University
-- **Bachelor of Commerce**, Madras University
+- **Master of Social Work**, Madras University(DRBCCC Hindu College)
+- **Bachelor of Commerce**, Madras University(Nazareth college)
 
 ## 💻 Experience
 I began my tech journey with an immersive learning experience in **Data Science/Data Analysis** at TopMentor. This experience honed my programming skills and laid a robust foundation in Python. I focus on leveraging my programming expertise to solve complex problems and extract meaningful insights from data.
