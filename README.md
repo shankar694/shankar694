@@ -28,7 +28,7 @@ I am currently specializing in **Masters in Data Science** at TopMentor. Here, I
 I have pinned my relevant projects on my [GitHub profile](https://github.com/shankar44455?tab=repositories) for a detailed showcase.
 
 ## 🌐 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: https://www.linkedin.com/in/shankar-t-505126201/
 - **Email**: shankart083@gmail.com
 - **GitHub**: [shankar44455](https://github.com/shankar44455)
 
