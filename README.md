@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shankar
-🎓Education
+🎓Education 
 I hold a Master of Social Work and a Bachelor of Commerce degree from Madras University. My academic journey has provided you with a strong foundation in the principles of commerce, including finance, business law, and economics, while also equipping with the skills necessary for social work practice.
 💻 Experience
 My journey into the tech world began with a dynamic learning in Data Science/Data Analyst from TopMentor. This immersive experience not only honed my programming skills but also equipped me with a robust foundation for Python. With a keen focus on leveraging my programming prowess, I've intentionally prepared myself for the exciting realms of data analysis and machine learning. This journey has been a deliberate step towards applying my programming acumen to solve complex problems and extract meaningful insights from data.
