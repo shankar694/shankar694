@@ -1,6 +1,3 @@
-# GitHub README Generator for Shankar
-
-## 👋 Introduction
 Hi, I'm Shankar! I hold a **Master of Social Work** and a **Bachelor of Commerce** degree from Madras University. My academic journey has provided me with a strong foundation in commerce principles, including finance, business law, and economics, while equipping me with essential skills for social work practice.
 
 ## 🎓 Education
